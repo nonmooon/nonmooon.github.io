@@ -28,5 +28,6 @@ p {
   font: xxx-large Georgia;
   color: #FFFFFF;
   text-align: left;
+  float: left;
   background: #000000;
 }
