@@ -1,0 +1,32 @@
+head {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #BBBBBB;
+}
+
+p {
+  padding: 0px;
+  margin: 0px;
+}
+
+.siteBody {
+  margin: 10px;
+  background-color: #000000;
+  border-radius=20px;
+  color: #FFFFFF;
+}
+
+.siteHome {
+  padding: 3px;
+  margin-bottom: 3px;
+  cursor: pointer;
+  font: xxx-large Georgia;
+  color: #FFFFFF;
+  text-align: center;
+  background: #000000;
+}
